@@ -22,7 +22,7 @@
 
     ```bash
     cd my-app/
-    cp env-example .env
+    cp .env .env
     ```
 
 1. Change `DATABASE_HOST=postgres` to `DATABASE_HOST=localhost`
@@ -76,7 +76,7 @@ If you want quick run your app, you can use following commands:
 
     ```bash
     cd my-app/
-    cp env-example .env
+    cp .env .env
     ```
 
 1. Run containers
